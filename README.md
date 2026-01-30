@@ -1,4 +1,5 @@
 # Automated-General-Report-for-Portfolio-Risk-Analysis
+
 This repository provides an advanced Quantitative Risk Report focused on evaluating the stability and efficiency of a diversified investment portfolio. The analysis utilizes high-frequency risk metrics and statistical tests to validate the portfolio's resilience against market shocks and systematic risk.
 
 Objective: To implement a robust risk management framework using conditional volatility and tail risk metrics to optimize capital preservation.
